@@ -1,2 +1,6 @@
 # bloxflip-mines-random-choice-predictor
-The best bloxflip mines "predictor" (random generation), coded in 8 lines
+- fun little challenge me and vipqix
+- we attempted to code this under 10 lines
+- script kiddies even sell this for $5
+- breaks like 50 pep8 rules LoL
+
